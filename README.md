@@ -25,7 +25,7 @@ i am passionate for the feeling that coding gave me its like everyday i learn a 
 
 ## 📊 Take a look in my stats
 <p align="center">
-<a href="https://github.com/rafaasimi">
+<a href="https://github.com/luis-gustavoj">
 <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=luis-gustavoj&show_icons=true&theme=dracula" />
 <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-gustavoj&layout=compact&theme=dracula" />
 </a>
