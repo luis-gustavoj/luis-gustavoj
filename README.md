@@ -11,6 +11,7 @@ I am a 20 years old man that had fall in love for coding at first contact. Curre
 ![Javascript Logo](/images/javascript.svg)
 ![ReactJS Logo](/images/reactjs.svg)
 ![Bootstrap Logo](/images/bootstrap.svg)
+![Typescript Logo](/images/typescript.svg)
 
 ## 📖 I'm learning
 ![NextJS Logo](/images/nextjs.svg)
