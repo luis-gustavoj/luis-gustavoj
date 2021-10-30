@@ -42,10 +42,11 @@ If you want you can visit my [portfolio](https://luisilva-dev.vercel.app/)
 ## 📊 Take a look in my stats
 
 <a href="https://github.com/luis-gustavoj">
-<img height="165em" align="left" src="https://github-readme-stats.vercel.app/api?username=luis-gustavoj&show_icons=true&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
-<img height="165em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-gustavoj&layout=compact&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
+<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=luis-gustavoj&show_icons=true&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
+<img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-gustavoj&layout=compact&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
 </a>
 
+<br>
 <br>
 <br>
 <br>
