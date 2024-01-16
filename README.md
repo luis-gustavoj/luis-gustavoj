@@ -39,15 +39,6 @@ If you want you can visit my [portfolio](https://luisoila.dev/)
 ![Typescript Logo](/images/typescript.svg)
 ![React-Native Logo](/images/react-native.svg)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ---
 
 <p align="center" > 
